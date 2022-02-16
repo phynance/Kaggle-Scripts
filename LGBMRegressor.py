@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import RandomizedSearchCV
 #from sklearn.metrics import make_scorer
 #import seaborn as sns
-import RunningMean
+import MovingAverageClass
 
 # Input data files are available in the read-only "../input/" directory
 # For example, running this (by clicking run or pressing Shift+Enter) will list all files under the input directory
