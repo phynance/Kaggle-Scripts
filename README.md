@@ -1,2 +1,2 @@
 # Kaggle-Scripts
-it stores some of the common techniques used in Kaggle competition
+It contains the scripts I used in Kaggle competition "G-Research Crypto Forecasting", but they are also generally applicable into various Kaggle competitions. 
