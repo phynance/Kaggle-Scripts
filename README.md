@@ -1,4 +1,4 @@
-# Kaggle-Scripts
+# LGBM Regressor in "G-Research Crypto Forecasting" competition
 It contains the scripts I used in Kaggle competition "G-Research Crypto Forecasting", https://www.kaggle.com/c/g-research-crypto-forecasting, but they are also generally applicable into various Kaggle competitions. 
 
 The LGBMRegressor.py is the main script calling the specially constructed time-series CV splitting function and one feature engineering class of moving average. 
